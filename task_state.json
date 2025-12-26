@@ -1,0 +1,5 @@
+{
+  "entity": "task",
+  "current_state": "Pending",
+  "allowed_next_states": ["In Progress"]
+}
